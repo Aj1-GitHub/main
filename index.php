@@ -24,7 +24,7 @@ else
 <body>
     <section class="DEMO2">
         <h1>Congratulations!</h1>
-        <p>Your HELLO HIII INFOR AJAYA  <em>PHP</em> applAJY IS THE ONE WHO IS PRESENTING THIS DEMO TO YOU AWS&nbsp;Cloud</p>
+        <p>Your HELLO HIII INFOR AJAYA  <em>PHP</em> applAJHELLO AGAINING THIS DEMO TO YOU AWS&nbsp;Cloud</p>
         <p>You are running PHP version5 <?= phpversion() ?></p>
         <p>This environment is launched with Elastic Beanstalk PHP Platform</p>
     </section>
